@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTE_guest.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="blue hold end instance 10000" x="5" y="647" width="51" height="64"/>
+	<SubTexture name="blue hold piece instance 10000" x="229" y="647" width="51" height="44"/>
+	<SubTexture name="blue instance 10000" x="5" y="5" width="158" height="154"/>
+	<SubTexture name="blue instance 10001" x="5" y="5" width="158" height="154"/>
+	<SubTexture name="blue instance 10002" x="5" y="5" width="158" height="154"/>
+	<SubTexture name="blue instance 10003" x="5" y="5" width="158" height="154"/>
+	<SubTexture name="blue instance 10004" x="5" y="5" width="158" height="154"/>
+	<SubTexture name="blue instance 10005" x="5" y="5" width="158" height="154"/>
+	<SubTexture name="blue instance 10006" x="5" y="5" width="158" height="154"/>
+	<SubTexture name="blue instance 10007" x="5" y="5" width="158" height="154"/>
+	<SubTexture name="blue instance 10008" x="168" y="5" width="158" height="154"/>
+	<SubTexture name="blue instance 10009" x="168" y="5" width="158" height="154"/>
+	<SubTexture name="blue instance 10010" x="168" y="5" width="158" height="154"/>
+	<SubTexture name="blue instance 10011" x="168" y="5" width="158" height="154"/>
+	<SubTexture name="blue instance 10012" x="168" y="5" width="158" height="154"/>
+	<SubTexture name="blue instance 10013" x="168" y="5" width="158" height="154"/>
+	<SubTexture name="blue instance 10014" x="168" y="5" width="158" height="154"/>
+	<SubTexture name="blue instance 10015" x="168" y="5" width="158" height="154"/>
+	<SubTexture name="blue instance 10016" x="331" y="5" width="158" height="154"/>
+	<SubTexture name="blue instance 10017" x="331" y="5" width="158" height="154"/>
+	<SubTexture name="blue instance 10018" x="331" y="5" width="158" height="154"/>
+	<SubTexture name="blue instance 10019" x="331" y="5" width="158" height="154"/>
+	<SubTexture name="blue instance 10020" x="331" y="5" width="158" height="154"/>
+	<SubTexture name="blue instance 10021" x="331" y="5" width="158" height="154"/>
+	<SubTexture name="blue instance 10022" x="331" y="5" width="158" height="154"/>
+	<SubTexture name="blue instance 10023" x="331" y="5" width="158" height="154"/>
+	<SubTexture name="green hold end instance 10000" x="61" y="647" width="51" height="64"/>
+	<SubTexture name="green hold piece instance 10000" x="285" y="647" width="51" height="44"/>
+	<SubTexture name="green instance 10000" x="5" y="164" width="157" height="154"/>
+	<SubTexture name="green instance 10001" x="5" y="164" width="157" height="154"/>
+	<SubTexture name="green instance 10002" x="5" y="164" width="157" height="154"/>
+	<SubTexture name="green instance 10003" x="5" y="164" width="157" height="154"/>
+	<SubTexture name="green instance 10004" x="5" y="164" width="157" height="154"/>
+	<SubTexture name="green instance 10005" x="5" y="164" width="157" height="154"/>
+	<SubTexture name="green instance 10006" x="5" y="164" width="157" height="154"/>
+	<SubTexture name="green instance 10007" x="5" y="164" width="157" height="154"/>
+	<SubTexture name="green instance 10008" x="167" y="164" width="157" height="154"/>
+	<SubTexture name="green instance 10009" x="167" y="164" width="157" height="154"/>
+	<SubTexture name="green instance 10010" x="167" y="164" width="157" height="154"/>
+	<SubTexture name="green instance 10011" x="167" y="164" width="157" height="154"/>
+	<SubTexture name="green instance 10012" x="167" y="164" width="157" height="154"/>
+	<SubTexture name="green instance 10013" x="167" y="164" width="157" height="154"/>
+	<SubTexture name="green instance 10014" x="167" y="164" width="157" height="154"/>
+	<SubTexture name="green instance 10015" x="167" y="164" width="157" height="154"/>
+	<SubTexture name="green instance 10016" x="329" y="164" width="157" height="154"/>
+	<SubTexture name="green instance 10017" x="329" y="164" width="157" height="154"/>
+	<SubTexture name="green instance 10018" x="329" y="164" width="157" height="154"/>
+	<SubTexture name="green instance 10019" x="329" y="164" width="157" height="154"/>
+	<SubTexture name="green instance 10020" x="329" y="164" width="157" height="154"/>
+	<SubTexture name="green instance 10021" x="329" y="164" width="157" height="154"/>
+	<SubTexture name="green instance 10022" x="329" y="164" width="157" height="154"/>
+	<SubTexture name="green instance 10023" x="329" y="164" width="157" height="154"/>
+	<SubTexture name="pruple end hold instance 10000" x="117" y="647" width="51" height="64"/>
+	<SubTexture name="purple hold piece instance 10000" x="341" y="647" width="51" height="44"/>
+	<SubTexture name="purple instance 10000" x="5" y="323" width="154" height="157"/>
+	<SubTexture name="purple instance 10001" x="5" y="323" width="154" height="157"/>
+	<SubTexture name="purple instance 10002" x="5" y="323" width="154" height="157"/>
+	<SubTexture name="purple instance 10003" x="5" y="323" width="154" height="157"/>
+	<SubTexture name="purple instance 10004" x="5" y="323" width="154" height="157"/>
+	<SubTexture name="purple instance 10005" x="5" y="323" width="154" height="157"/>
+	<SubTexture name="purple instance 10006" x="5" y="323" width="154" height="157"/>
+	<SubTexture name="purple instance 10007" x="5" y="323" width="154" height="157"/>
+	<SubTexture name="purple instance 10008" x="164" y="323" width="154" height="157"/>
+	<SubTexture name="purple instance 10009" x="164" y="323" width="154" height="157"/>
+	<SubTexture name="purple instance 10010" x="164" y="323" width="154" height="157"/>
+	<SubTexture name="purple instance 10011" x="164" y="323" width="154" height="157"/>
+	<SubTexture name="purple instance 10012" x="164" y="323" width="154" height="157"/>
+	<SubTexture name="purple instance 10013" x="164" y="323" width="154" height="157"/>
+	<SubTexture name="purple instance 10014" x="164" y="323" width="154" height="157"/>
+	<SubTexture name="purple instance 10015" x="164" y="323" width="154" height="157"/>
+	<SubTexture name="purple instance 10016" x="323" y="323" width="154" height="157"/>
+	<SubTexture name="purple instance 10017" x="323" y="323" width="154" height="157"/>
+	<SubTexture name="purple instance 10018" x="323" y="323" width="154" height="157"/>
+	<SubTexture name="purple instance 10019" x="323" y="323" width="154" height="157"/>
+	<SubTexture name="purple instance 10020" x="323" y="323" width="154" height="157"/>
+	<SubTexture name="purple instance 10021" x="323" y="323" width="154" height="157"/>
+	<SubTexture name="purple instance 10022" x="323" y="323" width="154" height="157"/>
+	<SubTexture name="purple instance 10023" x="323" y="323" width="154" height="157"/>
+	<SubTexture name="red hold end instance 10000" x="173" y="647" width="51" height="64"/>
+	<SubTexture name="red hold piece instance 10000" x="397" y="647" width="51" height="44"/>
+	<SubTexture name="red instance 10000" x="5" y="485" width="154" height="157"/>
+	<SubTexture name="red instance 10001" x="5" y="485" width="154" height="157"/>
+	<SubTexture name="red instance 10002" x="5" y="485" width="154" height="157"/>
+	<SubTexture name="red instance 10003" x="5" y="485" width="154" height="157"/>
+	<SubTexture name="red instance 10004" x="5" y="485" width="154" height="157"/>
+	<SubTexture name="red instance 10005" x="5" y="485" width="154" height="157"/>
+	<SubTexture name="red instance 10006" x="5" y="485" width="154" height="157"/>
+	<SubTexture name="red instance 10007" x="5" y="485" width="154" height="157"/>
+	<SubTexture name="red instance 10008" x="164" y="485" width="154" height="157"/>
+	<SubTexture name="red instance 10009" x="164" y="485" width="154" height="157"/>
+	<SubTexture name="red instance 10010" x="164" y="485" width="154" height="157"/>
+	<SubTexture name="red instance 10011" x="164" y="485" width="154" height="157"/>
+	<SubTexture name="red instance 10012" x="164" y="485" width="154" height="157"/>
+	<SubTexture name="red instance 10013" x="164" y="485" width="154" height="157"/>
+	<SubTexture name="red instance 10014" x="164" y="485" width="154" height="157"/>
+	<SubTexture name="red instance 10015" x="164" y="485" width="154" height="157"/>
+	<SubTexture name="red instance 10016" x="323" y="485" width="154" height="157"/>
+	<SubTexture name="red instance 10017" x="323" y="485" width="154" height="157"/>
+	<SubTexture name="red instance 10018" x="323" y="485" width="154" height="157"/>
+	<SubTexture name="red instance 10019" x="323" y="485" width="154" height="157"/>
+	<SubTexture name="red instance 10020" x="323" y="485" width="154" height="157"/>
+	<SubTexture name="red instance 10021" x="323" y="485" width="154" height="157"/>
+	<SubTexture name="red instance 10022" x="323" y="485" width="154" height="157"/>
+	<SubTexture name="red instance 10023" x="323" y="485" width="154" height="157"/>
+</TextureAtlas>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="screen.png">
+	<!-- Created with yo mama -->
+	<SubTexture name="opening0000" x="30" y="30" width="340" height="230" frameX="-471" frameY="-243" frameWidth="1254" frameHeight="689"/>
+	<SubTexture name="opening0001" x="400" y="30" width="438" height="230" frameX="-422" frameY="-243" frameWidth="1254" frameHeight="689"/>
+	<SubTexture name="opening0002" x="868" y="30" width="596" height="230" frameX="-343" frameY="-243" frameWidth="1254" frameHeight="689"/>
+	<SubTexture name="opening0003" x="1494" y="30" width="752" height="230" frameX="-265" frameY="-243" frameWidth="1254" frameHeight="689"/>
+	<SubTexture name="opening0004" x="2276" y="30" width="840" height="252" frameX="-221" frameY="-232" frameWidth="1254" frameHeight="689"/>
+	<SubTexture name="opening0005" x="3146" y="30" width="930" height="272" frameX="-176" frameY="-222" frameWidth="1254" frameHeight="689"/>
+	<SubTexture name="opening0006" x="30" y="332" width="1018" height="294" frameX="-132" frameY="-211" frameWidth="1254" frameHeight="689"/>
+	<SubTexture name="opening0007" x="1078" y="332" width="1087" height="412" frameX="-98" frameY="-152" frameWidth="1254" frameHeight="689"/>
+	<SubTexture name="opening0008" x="2195" y="332" width="1156" height="529" frameX="-63" frameY="-94" frameWidth="1254" frameHeight="689"/>
+	<SubTexture name="opening0009" x="30" y="891" width="1224" height="647" frameX="-29" frameY="-35" frameWidth="1254" frameHeight="689"/>
+	<SubTexture name="opening0010" x="1284" y="891" width="1253" height="682" frameX="-15" frameY="-17" frameWidth="1254" frameHeight="689"/>
+
+	<SubTexture name="opening0011" x="2567" y="891" width="1282" height="717"/>
+
+	<SubTexture name="opening0012" x="30" y="2416" width="1280" height="720"/>
+	<SubTexture name="opening0013" x="30" y="2416" width="1280" height="720"/>
+	<SubTexture name="opening0014" x="30" y="2416" width="1280" height="720"/>
+	<SubTexture name="opening0015" x="30" y="2416" width="1280" height="720"/>
+	<SubTexture name="opening0016" x="30" y="2416" width="1280" height="720"/>
+	<SubTexture name="opening0017" x="30" y="2416" width="1280" height="720"/>
+	<SubTexture name="opening0018" x="30" y="2416" width="1280" height="720"/>
+	<SubTexture name="opening0019" x="30" y="2416" width="1280" height="720"/>
+	<SubTexture name="opening0020" x="30" y="2416" width="1280" height="720"/>
+	<SubTexture name="opening0021" x="30" y="2416" width="1280" height="720"/>
+	<SubTexture name="opening0022" x="30" y="2416" width="1280" height="720"/>
+	<SubTexture name="opening0023" x="30" y="2416" width="1280" height="720"/>
+	<SubTexture name="opening0024" x="1368" y="1638" width="1280" height="720"/>
+	<SubTexture name="opening0025" x="1368" y="1638" width="1280" height="720"/>
+	<SubTexture name="opening0026" x="2706" y="1638" width="1280" height="720"/>
+	<SubTexture name="opening0027" x="2706" y="1638" width="1280" height="720"/>
+	<SubTexture name="opening0028" x="30" y="1638" width="1280" height="720"/>
+	<SubTexture name="opening0029" x="30" y="1638" width="1280" height="720"/>
+</TextureAtlas>

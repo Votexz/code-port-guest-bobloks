@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="guest_spook.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="idle spook0000" x="0" y="0" width="271" height="444" frameX="0" frameY="-6" frameWidth="271" frameHeight="456"/>
+	<SubTexture name="idle spook0001" x="0" y="0" width="271" height="444" frameX="0" frameY="-6" frameWidth="271" frameHeight="456"/>
+	<SubTexture name="idle spook0002" x="271" y="0" width="267" height="451" frameX="-2" frameY="-2" frameWidth="271" frameHeight="456"/>
+	<SubTexture name="idle spook0003" x="271" y="0" width="267" height="451" frameX="-2" frameY="-2" frameWidth="271" frameHeight="456"/>
+	<SubTexture name="idle spook0004" x="538" y="0" width="263" height="456" frameX="-4" frameY="0" frameWidth="271" frameHeight="456"/>
+	<SubTexture name="idle spook0005" x="538" y="0" width="263" height="456" frameX="-4" frameY="0" frameWidth="271" frameHeight="456"/>
+	<SubTexture name="idle spook0006" x="538" y="0" width="263" height="456" frameX="-4" frameY="0" frameWidth="271" frameHeight="456"/>
+	<SubTexture name="idle spook0007" x="538" y="0" width="263" height="456" frameX="-4" frameY="0" frameWidth="271" frameHeight="456"/>
+	<SubTexture name="idle spook0008" x="538" y="0" width="263" height="456" frameX="-4" frameY="0" frameWidth="271" frameHeight="456"/>
+	<SubTexture name="idle spook0009" x="538" y="0" width="263" height="456" frameX="-4" frameY="0" frameWidth="271" frameHeight="456"/>
+	<SubTexture name="idle spook0010" x="538" y="0" width="263" height="456" frameX="-4" frameY="0" frameWidth="271" frameHeight="456"/>
+	<SubTexture name="idle spook0011" x="538" y="0" width="263" height="456" frameX="-4" frameY="0" frameWidth="271" frameHeight="456"/>
+	<SubTexture name="idle spook0012" x="538" y="0" width="263" height="456" frameX="-4" frameY="0" frameWidth="271" frameHeight="456"/>
+	<SubTexture name="idle spook0013" x="538" y="0" width="263" height="456" frameX="-4" frameY="0" frameWidth="271" frameHeight="456"/>
+	<SubTexture name="spook right0000" x="0" y="456" width="320" height="455"/>
+	<SubTexture name="spook right0001" x="0" y="456" width="320" height="455"/>
+	<SubTexture name="spook right0002" x="320" y="456" width="310" height="455" frameX="-3" frameY="0" frameWidth="320" frameHeight="455"/>
+	<SubTexture name="spook right0003" x="320" y="456" width="310" height="455" frameX="-3" frameY="0" frameWidth="320" frameHeight="455"/>
+	<SubTexture name="spook right0004" x="320" y="456" width="310" height="455" frameX="-3" frameY="0" frameWidth="320" frameHeight="455"/>
+	<SubTexture name="spook right0005" x="320" y="456" width="310" height="455" frameX="-3" frameY="0" frameWidth="320" frameHeight="455"/>
+	<SubTexture name="spook right0006" x="320" y="456" width="310" height="455" frameX="-3" frameY="0" frameWidth="320" frameHeight="455"/>
+	<SubTexture name="spook right0007" x="320" y="456" width="310" height="455" frameX="-3" frameY="0" frameWidth="320" frameHeight="455"/>
+	<SubTexture name="spook right0008" x="320" y="456" width="310" height="455" frameX="-3" frameY="0" frameWidth="320" frameHeight="455"/>
+	<SubTexture name="spook right0009" x="320" y="456" width="310" height="455" frameX="-3" frameY="0" frameWidth="320" frameHeight="455"/>
+	<SubTexture name="spook right0010" x="320" y="456" width="310" height="455" frameX="-3" frameY="0" frameWidth="320" frameHeight="455"/>
+	<SubTexture name="spook right0011" x="320" y="456" width="310" height="455" frameX="-3" frameY="0" frameWidth="320" frameHeight="455"/>
+	<SubTexture name="spook right0012" x="320" y="456" width="310" height="455" frameX="-3" frameY="0" frameWidth="320" frameHeight="455"/>
+	<SubTexture name="spook right0013" x="320" y="456" width="310" height="455" frameX="-3" frameY="0" frameWidth="320" frameHeight="455"/>
+	<SubTexture name="spook up0000" x="630" y="456" width="203" height="465"/>
+	<SubTexture name="spook up0001" x="630" y="456" width="203" height="465"/>
+	<SubTexture name="spook up0002" x="0" y="921" width="203" height="458" frameX="0" frameY="-7" frameWidth="203" frameHeight="465"/>
+	<SubTexture name="spook up0003" x="0" y="921" width="203" height="458" frameX="0" frameY="-7" frameWidth="203" frameHeight="465"/>
+	<SubTexture name="spook up0004" x="0" y="921" width="203" height="458" frameX="0" frameY="-7" frameWidth="203" frameHeight="465"/>
+	<SubTexture name="spook up0005" x="0" y="921" width="203" height="458" frameX="0" frameY="-7" frameWidth="203" frameHeight="465"/>
+	<SubTexture name="spook up0006" x="0" y="921" width="203" height="458" frameX="0" frameY="-7" frameWidth="203" frameHeight="465"/>
+	<SubTexture name="spook up0007" x="0" y="921" width="203" height="458" frameX="0" frameY="-7" frameWidth="203" frameHeight="465"/>
+	<SubTexture name="spook up0008" x="0" y="921" width="203" height="458" frameX="0" frameY="-7" frameWidth="203" frameHeight="465"/>
+	<SubTexture name="spook up0009" x="0" y="921" width="203" height="458" frameX="0" frameY="-7" frameWidth="203" frameHeight="465"/>
+	<SubTexture name="spook up0010" x="0" y="921" width="203" height="458" frameX="0" frameY="-7" frameWidth="203" frameHeight="465"/>
+	<SubTexture name="spook up0011" x="0" y="921" width="203" height="458" frameX="0" frameY="-7" frameWidth="203" frameHeight="465"/>
+	<SubTexture name="spook up0012" x="0" y="921" width="203" height="458" frameX="0" frameY="-7" frameWidth="203" frameHeight="465"/>
+	<SubTexture name="spook up0013" x="0" y="921" width="203" height="458" frameX="0" frameY="-7" frameWidth="203" frameHeight="465"/>
+	<SubTexture name="spooky down0000" x="203" y="921" width="312" height="414" frameX="0" frameY="0" frameWidth="312" frameHeight="415"/>
+	<SubTexture name="spooky down0001" x="203" y="921" width="312" height="414" frameX="0" frameY="0" frameWidth="312" frameHeight="415"/>
+	<SubTexture name="spooky down0002" x="515" y="921" width="311" height="400" frameX="0" frameY="-15" frameWidth="312" frameHeight="415"/>
+	<SubTexture name="spooky down0003" x="515" y="921" width="311" height="400" frameX="0" frameY="-15" frameWidth="312" frameHeight="415"/>
+	<SubTexture name="spooky down0004" x="515" y="921" width="311" height="400" frameX="0" frameY="-15" frameWidth="312" frameHeight="415"/>
+	<SubTexture name="spooky down0005" x="515" y="921" width="311" height="400" frameX="0" frameY="-15" frameWidth="312" frameHeight="415"/>
+	<SubTexture name="spooky down0006" x="515" y="921" width="311" height="400" frameX="0" frameY="-15" frameWidth="312" frameHeight="415"/>
+	<SubTexture name="spooky down0007" x="515" y="921" width="311" height="400" frameX="0" frameY="-15" frameWidth="312" frameHeight="415"/>
+	<SubTexture name="spooky down0008" x="515" y="921" width="311" height="400" frameX="0" frameY="-15" frameWidth="312" frameHeight="415"/>
+	<SubTexture name="spooky down0009" x="515" y="921" width="311" height="400" frameX="0" frameY="-15" frameWidth="312" frameHeight="415"/>
+	<SubTexture name="spooky down0010" x="515" y="921" width="311" height="400" frameX="0" frameY="-15" frameWidth="312" frameHeight="415"/>
+	<SubTexture name="spooky down0011" x="515" y="921" width="311" height="400" frameX="0" frameY="-15" frameWidth="312" frameHeight="415"/>
+	<SubTexture name="spooky down0012" x="515" y="921" width="311" height="400" frameX="0" frameY="-15" frameWidth="312" frameHeight="415"/>
+	<SubTexture name="spooky down0013" x="515" y="921" width="311" height="400" frameX="0" frameY="-15" frameWidth="312" frameHeight="415"/>
+	<SubTexture name="spooky left0000" x="0" y="1379" width="385" height="456" frameX="0" frameY="0" frameWidth="387" frameHeight="456"/>
+	<SubTexture name="spooky left0001" x="0" y="1379" width="385" height="456" frameX="0" frameY="0" frameWidth="387" frameHeight="456"/>
+	<SubTexture name="spooky left0002" x="385" y="1379" width="381" height="456" frameX="-6" frameY="0" frameWidth="387" frameHeight="456"/>
+	<SubTexture name="spooky left0003" x="385" y="1379" width="381" height="456" frameX="-6" frameY="0" frameWidth="387" frameHeight="456"/>
+	<SubTexture name="spooky left0004" x="385" y="1379" width="381" height="456" frameX="-6" frameY="0" frameWidth="387" frameHeight="456"/>
+	<SubTexture name="spooky left0005" x="385" y="1379" width="381" height="456" frameX="-6" frameY="0" frameWidth="387" frameHeight="456"/>
+	<SubTexture name="spooky left0006" x="385" y="1379" width="381" height="456" frameX="-6" frameY="0" frameWidth="387" frameHeight="456"/>
+	<SubTexture name="spooky left0007" x="385" y="1379" width="381" height="456" frameX="-6" frameY="0" frameWidth="387" frameHeight="456"/>
+	<SubTexture name="spooky left0008" x="385" y="1379" width="381" height="456" frameX="-6" frameY="0" frameWidth="387" frameHeight="456"/>
+	<SubTexture name="spooky left0009" x="385" y="1379" width="381" height="456" frameX="-6" frameY="0" frameWidth="387" frameHeight="456"/>
+	<SubTexture name="spooky left0010" x="385" y="1379" width="381" height="456" frameX="-6" frameY="0" frameWidth="387" frameHeight="456"/>
+	<SubTexture name="spooky left0011" x="385" y="1379" width="381" height="456" frameX="-6" frameY="0" frameWidth="387" frameHeight="456"/>
+	<SubTexture name="spooky left0012" x="385" y="1379" width="381" height="456" frameX="-6" frameY="0" frameWidth="387" frameHeight="456"/>
+	<SubTexture name="spooky left0013" x="385" y="1379" width="381" height="456" frameX="-6" frameY="0" frameWidth="387" frameHeight="456"/>
+</TextureAtlas>
